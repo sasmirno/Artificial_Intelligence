@@ -1,4 +1,16 @@
-Лэндинг. Gulp, scss, flexbox, drid, js, Swiper.
+Сайт одностраничник
 
-Макет
-https://www.figma.com/file/YLyZvvr8ebSuA3kNQHhnhz/Artificial-Intelligence
+При вёрстке сайт использовался таск-менеджер gulp и препроцессор SCSS
+
+Адаптивный и кроссбраузерный, в CSS используется flexbox
+
+Google шрифты, favicon иконка
+
+JavaScript используется для проверки поддержки браузером webp изображений, для меню бургер и выпадающего списка в мобильной версии сайта
+
+Для слайдов используется библиотека Swiperjs
+
+Open Graph и SEO по минимуму
+
+Сайт свёрстан по figma макету
+Макет https://www.figma.com/file/YLyZvvr8ebSuA3kNQHhnhz/Artificial-Intelligence
